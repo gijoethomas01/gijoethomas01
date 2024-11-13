@@ -1,10 +1,10 @@
 ## About Me
 ### Hello,
-#### I'm Gijoe Thomas, I am a dedicated Data Analyst with a passion for uncovering meaningful insights from data. My journey in the world of data began with a fascination for numbers and patterns, which has since evolved into a love for data analysis and visualization. I also have a keen interest in exploring the endless possibilities within the field of data science.
+I'm Gijoe Thomas, I am a dedicated Data Analyst with a passion for uncovering meaningful insights from data. My journey in the world of data began with a fascination for numbers and patterns, which has since evolved into a love for data analysis and visualization. I also have a keen interest in exploring the endless possibilities within the field of data science.
 
 
 ## Technologies I Use
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://img.shields.io/badge/-PYTHON-000?&logo=Python" alt="Python" width="90" height="20" />
   <img src="https://img.shields.io/badge/-PANDAS-000?&logo=Pandas" alt="Pandas" width="85" height="20" />
   <img src="https://img.shields.io/badge/-MYSQL-000?&logo=MySQL" alt="SQL" width="65" height="20" />
@@ -33,8 +33,3 @@
 - Advanced data visualization techniques.
 - Machine learning algorithms with Python.
 
-## ⚡ Fun fact
-I love diving into large datasets and uncovering hidden patterns that drive business decisions.
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/maxontech/count.svg)
