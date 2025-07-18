@@ -15,11 +15,11 @@ I'm Gijoe Thomas, I am a dedicated Data Analyst with a passion for uncovering me
 </div>
 
 ## Recent Learning Projects
-| Repository                                                     | Link                                                                   | Description                                        | Awards |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------- | ------ |
-| [mdx Blog](https://mdx-blog-amber.vercel.app/)                 | [Website](https://mdx-blog-amber.vercel.app/)                          |  Premium MDX, NextJS, TailwindCSS Template         | [3rd DevHunt](https://devhunt.org/tool/nextjs-mdx-blog)  |
-| [Personal Blog v2](https://maxontech.io/)                      | [Website](https://maxontech.io/)                                       |  New Blog.                                         |                    |
-| Personal Blog v1                                               | (Taken Down)                                                           | Built with NextJS (App Router) & WP GraphQL        |                    |
+| Repository                                                     | Link                                                                   | Description                                        |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------- |
+| [chicago-crime-dashboard](https://github.com/gijoethomas01/chicago-crime-dashboard/) | [DashBoard](https://lookerstudio.google.com/reporting/bd848d97-e1cb-4ed1-ae4e-0d9502332ac7/)|  Chicago crime analysis dashboard using BigQuery and Looker Studio|
+|                      |                                       |  New Blog.                                         |                    |
+| Personal Blog v1                                               | (Taken Down)                                                           |       |                    |
 | Test Project                                  | a  |    b  | c|
 
 ## Connect with Me
