@@ -18,8 +18,8 @@ I'm Gijoe Thomas, I am a dedicated Data Analyst with a passion for uncovering me
 | Repository                                                     | Link                                                                   | Description                                        |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------- |
 | [chicago-crime-dashboard](https://github.com/gijoethomas01/chicago-crime-dashboard/) | [DashBoard](https://lookerstudio.google.com/reporting/bd848d97-e1cb-4ed1-ae4e-0d9502332ac7/)|  Chicago crime analysis dashboard using BigQuery and Looker Studio|
-|                      |                                       |                                           |                    |
-|                                             |                                                         |       |                    |
+| | | | |
+| | | | |
 
 
 ## Connect with Me
